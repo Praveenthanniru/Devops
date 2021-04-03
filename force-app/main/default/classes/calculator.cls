@@ -15,6 +15,8 @@ public withsharing class calculator{
      public void ihi(integer a, integer b){
         return a*b;
     }
-
+    public void idssfsdhi(integer a, integer b){
+        return a*b;
+    }
     
 }
