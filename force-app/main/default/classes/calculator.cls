@@ -12,6 +12,9 @@ public withsharing class calculator{
     public void mul(integer a, integer b){
         return a*b;
     }
+     public void ihi(integer a, integer b){
+        return a*b;
+    }
 
     
 }
